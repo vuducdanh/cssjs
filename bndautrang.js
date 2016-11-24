@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://chothue-batdongsan.blogspot.com/' target='_blank'><img src='http://vnrent.com.vn/public/userfiles/images/vinhomes-central-park-apartment-for-rent.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://chothue-batdongsan.blogspot.com/' target='_blank'><img src='http://vnrent.com.vn/public/userfiles/images/vinhomes-central-park-apartment-for-rent.jpg' width='500px'/><br/> Cho thuê căn hộ tại Thành Phố Hồ Chí Minh</a>. Dịch vụ tốt nhất và chuyên nghiệp nhất. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
